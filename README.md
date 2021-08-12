@@ -2,7 +2,7 @@
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found Challenge}</h1>
+<h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://404-not-found-devchallenge.vercel.app/}">
+    <a href="https://https://404-not-found-devchallenge.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/Mooday/devchallenges.io-404-not-found}">
+    <a href="https://https://github.com/Mooday/devchallenges.io-404-not-found">
       Solution
     </a>
     <span> | </span>
