@@ -71,4 +71,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Mooday](https://{github.com/Mooday})
+- GitHub [@Mooday](https://github.com/Mooday)
