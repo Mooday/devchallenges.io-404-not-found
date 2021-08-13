@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://404-not-found-devchallenge.vercel.app/">
+    <a href="https://404-not-found-devchallenge.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/Mooday/devchallenges.io-404-not-found">
+    <a href="https://github.com/Mooday/devchallenges.io-404-not-found">
       Solution
     </a>
     <span> | </span>
